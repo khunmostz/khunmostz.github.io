@@ -1,10 +1,12 @@
 ---
-layout: page
+layout: default
 title: Kittabun Sukkasem
 permalink: /
 ---
 
 # Kittabun Sukkasem
+<img src="{{ '/profile.png' | relative_url }}" alt="Profile" width="140" style="border-radius:50%">
+
 **Mobile Developer** — Flutter / iOS (Swift) / Android (Kotlin) / Full-stack (Go, Node.js)
 
 - **LinkedIn:** [kittabun-sukkasem](https://www.linkedin.com/in/kittabun-sukkasem-b646832aa/)

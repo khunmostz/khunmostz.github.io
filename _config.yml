@@ -3,3 +3,9 @@ description: "Mobile Developer — Flutter / iOS (Swift) / Android (Kotlin) | Fu
 logo: /profile.png
 show_downloads: false
 theme: jekyll-theme-minimal
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
