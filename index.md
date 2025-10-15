@@ -4,19 +4,15 @@ title: Kittabun Sukkasem
 permalink: /
 ---
 
-# Kittabun Sukkasem
-<img src="{{ '/profile.png' | relative_url }}" alt="Profile" width="140" style="border-radius:50%">
-
-**Mobile Developer** — Flutter / iOS (Swift) / Android (Kotlin) / Full-stack (Go, Node.js)
-
-- **LinkedIn:** [kittabun-sukkasem](https://www.linkedin.com/in/kittabun-sukkasem-b646832aa/)
-- **GitHub:** [khunmostz](https://github.com/khunmostz)
-- **Email:** kittabun.sk@gmail.com
+## About Me
+Hi My name is Most I’m a mobile developer specialized in **Flutter**, delivering cross-platform apps from concept to production. My experience spans **telehealth**, **hotel companion** apps, a **node-based chatbot platform**, and **real-time voicebots**. I’m comfortable integrating with enterprise systems (CRM, REST APIs) and **Bluetooth/medical devices**, with a focus on scalable architecture, clean code, and maintainability.
 
 ---
 
-## Summary
-Mobile developer specialized in **Flutter**, delivering cross-platform apps from concept to production. Experience spans **telehealth**, **hotel companion** applications, a **node-based chatbot platform**, and **real-time voicebots**. Comfortable integrating with enterprise systems (CRM, REST APIs) and **Bluetooth/medical devices**. Focused on scalable architectures, clean code, and maintainability.
+## Personal Details
+- **LinkedIn:** [kittabun-sukkasem](https://www.linkedin.com/in/kittabun-sukkasem-b646832aa/)
+- **GitHub:** [khunmostz](https://github.com/khunmostz)
+- **Email:** kittabun.sk@gmail.com
 
 ---
 
@@ -68,6 +64,11 @@ Mobile developer specialized in **Flutter**, delivering cross-platform apps from
 
 ---
 
+## Languages
+- **Thai:** Native
+
+---
+
 ## Education
 **Kasem Bundit University, Bangkok** — *B.CompSci, 2019–2022*
 GPA **3.70** (First Class Honours)
@@ -79,14 +80,3 @@ GPA **3.70** (First Class Honours)
 - *Building Microservices with Go* / *Ultimate Golang Backend*
 - *NestJS Zero to Hero — Modern TypeScript Back-end*
 - Foundational workshops in Web, Docker, and Cloud/AWS
-
----
-
-## Languages
-- **Thai:** Native
-
----
-
-## Links
-- LinkedIn: https://www.linkedin.com/in/kittabun-sukkasem-b646832aa/
-- GitHub: https://github.com/khunmostz
