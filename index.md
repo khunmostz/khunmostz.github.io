@@ -46,13 +46,13 @@ Hi My name is Most I’m a mobile developer specialized in **Flutter**, deliveri
 
 ---
 
-## Projects (Selected)
-- **AI Chatbot Platform** — Node-based conversational platform (Python + Go).
+## Projects
+- **AI Chatbot Platform** — Node-based conversational platform
 - **Real-time Voicebot** — VAD/STT/TTS pipeline integrated with VoIP and chatbot engine.
+- **Smart Call** — App that shows personal calls as a company number.
 - **Telehealth App** — Appointments, health checks, and promotions in a single app.
 - **Hotel Companion App** — Interactive facilities, activities, and deal discovery.
-- **White-label Framework** — Rebrandable Flutter architecture for multiple clients.
-
+- **Petcare App** — Find nearby vet clinics and track pet health & expenses.
 ---
 
 ## Skills
